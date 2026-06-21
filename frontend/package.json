@@ -10,9 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "chatify-app": "file:..",
+    "vite": "^8.0.12",
     "react": "^19.2.6",
-    "react-dom": "^19.2.6",
-    "vite": "^8.0.12"
+    "react-dom": "^19.2.6"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
